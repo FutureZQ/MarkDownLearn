@@ -106,8 +106,8 @@ cout << "Hello World" << endl;
 - <https://www.qq.com>
   
 ### 6.2 变量形式
--[Google][googleWeb]
--[Baidu][BaiduWeb]
+- [Google][googleWeb]
+- [Baidu][BaiduWeb]
 
 [googleWeb]: http://www.google.com/
 [BaiduWeb]: http://www.baidu.com/
